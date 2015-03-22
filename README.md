@@ -4,9 +4,9 @@ This python script is used to convert raw RGB data to a viewable PNG image using
 
 ## Usage
 
-,,,
+```
 python rbp.py (INPUT) (OUTPUT) (HEIGHT) (WIDTH)
-,,,
+```
 
 ## License
 
@@ -35,11 +35,11 @@ THE SOFTWARE.
 This script contains an API to create PNG files from binary files (DUH)
 
 ###To use:
-,,,
+```
 import rbp
 
 rbp( [INPUTFILE] [OUTPUTFILE] [HEIGHT] [WIDTH] )
-,,,
+```
 
 ## Thanks
 
